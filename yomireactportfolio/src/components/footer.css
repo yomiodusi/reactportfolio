@@ -1,0 +1,29 @@
+footer {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+footer ul li a {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.55vw;
+    color: rgb(6, 48, 14)
+}
+
+footer ul li a:hover {
+background-color: rgb(140, 228, 0);
+}
+
+footer ul li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+footer h1 {
+    display: inline-block;
+    font-size: 48px;
+    background-size: auto;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    word-break: break-all;
+}
