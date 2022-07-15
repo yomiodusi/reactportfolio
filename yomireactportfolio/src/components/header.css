@@ -1,0 +1,100 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+body {
+    background-color: #929e85;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 30px;
+    background-color: rgb(6, 48, 14);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.header h1 {
+    display: inline-block;
+    font-size: 48px;
+    background-color: rgb(102, 182, 112);
+    background-size: auto;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.header nav{
+    float: right;
+    padding: 20px;
+    padding-top: 15px;
+    margin-right: 20px;
+     display: flex;
+}
+
+.header nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+}
+
+header nav ul li a {
+    border-bottom: 3px solid rgb(102, 182, 112);
+    padding-bottom: 5px;
+    margin: 0 30px;
+    font-weight: lighter;
+    font-size: 1.55vw;
+    color: rgb(102, 182, 112);
+    text-decoration: none;
+}
+
+header nav ul li a:hover {
+    background-color: rgb(140, 228, 0);
+}
+
+.lambeau {
+    background-image: url(../../public/lambeau.jpg);
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.lambeau img {
+    height: 150px;
+    mix-blend-mode: luminosity;
+}
+
+.lambeau .subtitle {
+    text-align: right;
+    display: flex;
+    font-size: 2vw;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    background-color: rgb(102, 182, 112);
+    padding: 8px;
+    position: relative;
+    left: 150px;
+    top: 50px;
+}
+
+.heading {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: right;
+    min-height: 100%;
+    padding-right: 1.5%;
+    min-width: 30%;
+    max-width: 30%;
+    border-right: 5px solid rgb(102, 182, 112)
+}
+
+.heading h1 {
+    font-size: 48px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

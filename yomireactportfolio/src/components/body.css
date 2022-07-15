@@ -1,0 +1,27 @@
+.lambeau {
+    background-image: url("../../public/lambeau.jpg");
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.lambeau img {
+    height: 150px;
+    mix-blend-mode: luminosity;
+}
+
+.lambeau .subtitle {
+    text-align: right;
+    display: flex;
+    font-size: 2vw;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    background-color: rgb(102, 182, 112);
+    padding: 8px;
+    position: relative;
+    left: 150px;
+    top: 50px;
+}
