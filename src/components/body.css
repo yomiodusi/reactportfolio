@@ -25,3 +25,23 @@
     left: 150px;
     top: 50px;
 }
+
+
+/* pictures {
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+} */
+
+/* 
+.projects {
+    flex-wrap: wrap;
+    display:'flex';
+    padding: 20px;
+    padding-top: 50px;
+    align-items: center;
+
+} */
