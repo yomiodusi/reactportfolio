@@ -18,7 +18,7 @@ function Body() {
     <br></br>
     <br></br>
     <h3>Hi Everyone! Welcome to my portfolio. I am a recent grad from Western University who studied aviation. 
-      On the side I love going out of my comfort zone and and really challenging. Coding is fun and challenging
+      On the side I love going out of my comfort zone and and really challenge myself. Coding is fun and challenging
       and I cannot wait to advance my skills in this field!</h3>
     <br></br>
     <h2>My Projects</h2>
