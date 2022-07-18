@@ -1,5 +1,6 @@
 import React from 'react'
 
+
 function Project({title,img,link,link2}) {
   return (
     <div style={{margin:'10px',display:'flex',flexDirection:'column',width:'700px',height:'150px', backgroundImage:`url(${img})`}}>

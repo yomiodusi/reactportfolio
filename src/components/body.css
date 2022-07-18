@@ -1,5 +1,5 @@
 .lambeau {
-    background-image: url("../../public/lambeau.jpg");
+    background-image: url("/public/images/lambeau.jpg");
     height: 200px;
     background-size: cover;
     background-position: center;
