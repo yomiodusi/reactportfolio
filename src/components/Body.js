@@ -15,7 +15,13 @@ function Body() {
  </section>
 
  <section class='projects' >
-    <h1>Projects</h1>
+    <br></br>
+    <br></br>
+    <h3>Hi Everyone! Welcome to my portfolio. I am a recent grad from Western University who studied aviation. 
+      On the side I love going out of my comfort zone and and really challenging. Coding is fun and challenging
+      and I cannot wait to advance my skills in this field!</h3>
+    <br></br>
+    <h2>My Projects</h2>
     <div  style={{display:'flex',paddingX:'20px',paddingTop:'50px',flexWrap:'wrap',alignItems:'center'}}>
     <Project  title='Team Profile Generator' link='https://github.com/yomiodusi/teampg' link2='google.ca' img='/teampg.png'/>
     <Project  title='BudgetTracker' link='https://github.com/yomiodusi/yomibudget-tracker' link2='https://yomibudget-tracker.herokuapp.com/' img='/btrack.png'/>

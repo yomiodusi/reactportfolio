@@ -4,7 +4,7 @@ import './header.css'
 function Header({props}) {
   return (
     <header>
-                    <h1>Yomi Odusi</h1>
+                    <h1 style={{fontSize:'5vw',textAlign:'center'}}>Yomi Odusi</h1>
             <nav>
                 <ul>
                     <li><a href="#about-me">About Me</a></li>

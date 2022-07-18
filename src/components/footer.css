@@ -3,6 +3,7 @@ footer {
     justify-content: space-between;
     flex-wrap: wrap;
     padding: 20px;
+    background-color: rgb(102, 182, 112);
 }
 
 footer ul li a {
