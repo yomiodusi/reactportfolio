@@ -6,7 +6,6 @@ function Project({title,img,link,link2}) {
         <h1>{title}</h1>
         <a href={link}> Link to Repository</a>
         <a href={link2}> Link to Project</a>
-
     </div>
   )
 }
