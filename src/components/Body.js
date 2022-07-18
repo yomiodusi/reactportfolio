@@ -23,12 +23,12 @@ function Body() {
     <br></br>
     <h2>My Projects</h2>
     <div  style={{display:'flex',paddingX:'20px',paddingTop:'50px',flexWrap:'wrap',alignItems:'center'}}>
-    <Project  title='Team Profile Generator' link='https://github.com/yomiodusi/teampg' link2='google.ca' img='/teampg.png'/>
+    <Project  title='Team Profile Generator' link='https://github.com/yomiodusi/teampg' link2='https://yomiodusi.github.io/teampg/dist/teampg.html' img='/teampg.png'/>
     <Project  title='BudgetTracker' link='https://github.com/yomiodusi/yomibudget-tracker' link2='https://yomibudget-tracker.herokuapp.com/' img='/btrack.png'/>
-    <Project  title='Employee Tracker' link='https://github.com/yomiodusi/employeetracker' link2='google.ca' img='/emptrack.png'/>
-    <Project  title='Password Generator' link='https://github.com/yomiodusi/odusigenerator' link2='google.ca' img='/passwordg.png'/>
+    <Project  title='Employee Tracker' link='https://github.com/yomiodusi/employeetracker' link2='https://ifunny.co/tags/nodejs' img='/emptrack.png'/>
+    <Project  title='Password Generator' link='https://github.com/yomiodusi/odusigenerator' link2='https://yomiodusi.github.io/odusigenerator/' img='/passwordg.png'/>
     <Project  title='JackedInTheBox' link='https://github.com/project2bootcamp/JackedInTheBox'link2='https://immense-sea-90510.herokuapp.com/' img='/jacked.jpg'/>
-    <Project  title='WorkDay Scheduler' link='https://github.com/yomiodusi/schedule-feat-yomi' link2='google.ca' img='/schedule.jpg'/>
+    <Project  title='Note Taker' link='https://github.com/yomiodusi/yominotes' link2='https://yominotes.herokuapp.com/' img='/schedule.jpg'/>
     </div>
  </section>
  
